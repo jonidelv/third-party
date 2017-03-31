@@ -9,7 +9,7 @@ Deploy the scripts somewhere on a different domain from the main application, th
 example below:
 
 
-````
+````html
 <body>
   <script>
     var receiveMessage = function (evt) {
